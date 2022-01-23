@@ -1,0 +1,21 @@
+INFO|23/Jan/2022 09:51:36|base|6006|139763581437760|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|23/Jan/2022 09:51:36|base|6006|139763581437760|Added job "Schedule.get_queryset" to job store "default"
+INFO|23/Jan/2022 09:51:36|base|6006|139763581437760|Scheduler started
+INFO|23/Jan/2022 09:51:37|base|6009|140267192063808|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|23/Jan/2022 09:51:37|base|6009|140267192063808|Added job "Schedule.get_queryset" to job store "default"
+INFO|23/Jan/2022 09:51:37|base|6009|140267192063808|Scheduler started
+INFO|23/Jan/2022 09:51:37|autoreload|6009|140267192063808|Watching for file changes with StatReloader
+INFO|23/Jan/2022 09:52:36|base|6006|139763524126464|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:52:36 UTC)" (scheduled at 2022-01-23 09:52:36.816127+00:00)
+ERROR|23/Jan/2022 09:52:36|views|6006|139763524126464|Something Went Wrongunsupported operand type(s) for -: 'tuple' and 'str'
+INFO|23/Jan/2022 09:52:36|base|6006|139763524126464|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:53:36 UTC)" executed successfully
+INFO|23/Jan/2022 09:52:37|base|6009|140267055216384|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:52:37 UTC)" (scheduled at 2022-01-23 09:52:37.415920+00:00)
+ERROR|23/Jan/2022 09:52:37|views|6009|140267055216384|Something Went Wrongunsupported operand type(s) for -: 'tuple' and 'str'
+INFO|23/Jan/2022 09:52:37|base|6009|140267055216384|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:53:37 UTC)" executed successfully
+INFO|23/Jan/2022 09:53:33|autoreload|6009|140267192063808|/home/ajay/Desktop/Web_Scraping_env/web_scraping/base/views.py changed, reloading.
+INFO|23/Jan/2022 09:53:33|base|6120|140648751998784|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|23/Jan/2022 09:53:33|base|6120|140648751998784|Added job "Schedule.get_queryset" to job store "default"
+INFO|23/Jan/2022 09:53:33|base|6120|140648751998784|Scheduler started
+INFO|23/Jan/2022 09:53:33|autoreload|6120|140648751998784|Watching for file changes with StatReloader
+INFO|23/Jan/2022 09:53:36|base|6006|139763524126464|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:54:36 UTC)" (scheduled at 2022-01-23 09:53:36.816127+00:00)
+ERROR|23/Jan/2022 09:53:36|views|6006|139763524126464|Something Went Wrongunsupported operand type(s) for -: 'tuple' and 'str'
+INFO|23/Jan/2022 09:53:36|base|6006|139763524126464|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-23 09:54:36 UTC)" executed successfully
