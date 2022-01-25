@@ -4,5 +4,5 @@ from base import views
 
 urlpatterns=[
 
-    path('test/', views.webscrap.as_view(), name='test'),
+    # path('test/', views.webscrap.as_view(), name='test'),
 ]

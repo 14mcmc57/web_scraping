@@ -22,22 +22,22 @@ import pandas as pd
 
 
 # Create your views here.
+# class Schedule(viewsets.ModelViewSet):
+#     def get_queryset(self):
+#         try:
+#             print("============")
+#             return Response({'massage': 'Created successfully','status': True})
+#         except Exception as e:
+#             logger.error('Something Went Wrong' + str(e))
+#             context = {'status': False, 'error': {'message': ['Something Went Wrong']}}
+#             return Response(context, status=status.HTTP_200_OK)
+
+
+
+
+
 class Schedule(viewsets.ModelViewSet):
-    def get_queryset(self):
-        try:
-            print("============")
-            return Response({'massage': 'Created successfully','status': True})
-        except Exception as e:
-            logger.error('Something Went Wrong' + str(e))
-            context = {'status': False, 'error': {'message': ['Something Went Wrong']}}
-            return Response(context, status=status.HTTP_200_OK)
-
-
-
-
-
-class webscrap(APIView):
-        def get(self,request):
+        def get_queryset(self):
             try:
                 url=urlISRO
                 driver = webdriver.Chrome(ChromeDriverManager().install())
