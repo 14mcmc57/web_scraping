@@ -1,0 +1,50 @@
+ERROR|24/Jan/2022 16:22:03|log|30866|139714626299648|Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: webscrap() takes no arguments
+ERROR|24/Jan/2022 16:22:03|basehttp|30866|139714626299648|"GET /test/ HTTP/1.1" 500 62092
+ERROR|24/Jan/2022 16:22:30|log|30936|140354416346880|Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: webscrap() takes no arguments
+ERROR|24/Jan/2022 16:22:30|basehttp|30936|140354416346880|"GET /test/ HTTP/1.1" 500 62229
+ERROR|24/Jan/2022 16:40:50|views|32290|139669341595392|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+ERROR|24/Jan/2022 16:41:50|views|32488|140377378023168|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+ERROR|24/Jan/2022 16:43:48|views|32621|140662033147648|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+ERROR|24/Jan/2022 16:49:52|views|32914|140442582071040|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+ERROR|24/Jan/2022 16:51:58|views|33073|139624065099520|Something Went Wrongname 'chromeDriverPath' is not defined
+ERROR|24/Jan/2022 16:52:50|views|33113|140378965706496|Something Went WrongMessage: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tenderDetailDivTd"]/div/a"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+#0 0x558bcf41aa23 <unknown>
+#1 0x558bceee5e18 <unknown>
+#2 0x558bcef1c151 <unknown>
+#3 0x558bcef1c311 <unknown>
+#4 0x558bcef4eec4 <unknown>
+#5 0x558bcef399bd <unknown>
+#6 0x558bcef4cc5b <unknown>
+#7 0x558bcef39883 <unknown>
+#8 0x558bcef0f3fa <unknown>
+#9 0x558bcef104c5 <unknown>
+#10 0x558bcf44a16d <unknown>
+#11 0x558bcf4605bb <unknown>
+#12 0x558bcf44be75 <unknown>
+#13 0x558bcf460e85 <unknown>
+#14 0x558bcf43f86f <unknown>
+#15 0x558bcf47bae8 <unknown>
+#16 0x558bcf47bc68 <unknown>
+#17 0x558bcf496aad <unknown>
+#18 0x7f903d4ca609 <unknown>
+
+ERROR|24/Jan/2022 17:06:38|views|33840|139733529622272|Something Went Wrongname 'strftime' is not defined
+ERROR|24/Jan/2022 17:08:31|views|34181|140630663853824|Something Went Wrongname 'strftime' is not defined

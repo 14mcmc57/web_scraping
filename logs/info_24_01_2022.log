@@ -1,0 +1,327 @@
+INFO|24/Jan/2022 16:01:25|base|28824|140189616838464|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|24/Jan/2022 16:01:25|base|28824|140189616838464|Added job "Schedule.get_queryset" to job store "default"
+INFO|24/Jan/2022 16:01:25|base|28824|140189616838464|Scheduler started
+INFO|24/Jan/2022 16:01:25|base|28827|140185680033600|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|24/Jan/2022 16:01:25|base|28827|140185680033600|Added job "Schedule.get_queryset" to job store "default"
+INFO|24/Jan/2022 16:01:25|base|28827|140185680033600|Scheduler started
+INFO|24/Jan/2022 16:01:25|autoreload|28827|140185680033600|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:02:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:02:25 UTC)" (scheduled at 2022-01-24 16:02:25.372891+00:00)
+INFO|24/Jan/2022 16:02:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:03:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:02:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:02:25 UTC)" (scheduled at 2022-01-24 16:02:25.975677+00:00)
+INFO|24/Jan/2022 16:02:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:03:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:03:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:04:25 UTC)" (scheduled at 2022-01-24 16:03:25.372891+00:00)
+INFO|24/Jan/2022 16:03:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:04:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:03:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:04:25 UTC)" (scheduled at 2022-01-24 16:03:25.975677+00:00)
+INFO|24/Jan/2022 16:03:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:04:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:04:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:05:25 UTC)" (scheduled at 2022-01-24 16:04:25.372891+00:00)
+INFO|24/Jan/2022 16:04:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:05:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:04:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:05:25 UTC)" (scheduled at 2022-01-24 16:04:25.975677+00:00)
+INFO|24/Jan/2022 16:04:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:05:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:05:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:06:25 UTC)" (scheduled at 2022-01-24 16:05:25.372891+00:00)
+INFO|24/Jan/2022 16:05:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:06:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:05:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:06:25 UTC)" (scheduled at 2022-01-24 16:05:25.975677+00:00)
+INFO|24/Jan/2022 16:05:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:06:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:06:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:07:25 UTC)" (scheduled at 2022-01-24 16:06:25.372891+00:00)
+INFO|24/Jan/2022 16:06:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:07:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:06:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:07:25 UTC)" (scheduled at 2022-01-24 16:06:25.975677+00:00)
+INFO|24/Jan/2022 16:06:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:07:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:07:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:08:25 UTC)" (scheduled at 2022-01-24 16:07:25.372891+00:00)
+INFO|24/Jan/2022 16:07:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:08:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:07:25|base|28827|140185621231360|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:08:25 UTC)" (scheduled at 2022-01-24 16:07:25.975677+00:00)
+INFO|24/Jan/2022 16:07:25|base|28827|140185621231360|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:08:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:08:00|autoreload|28827|140185680033600|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:00|autoreload|29797|140672228570944|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:08:04|autoreload|29797|140672228570944|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:04|autoreload|29808|139849579235136|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:08:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:09:25 UTC)" (scheduled at 2022-01-24 16:08:25.372891+00:00)
+INFO|24/Jan/2022 16:08:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:09:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:08:31|autoreload|29808|139849579235136|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:31|autoreload|29879|140668035741504|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:08:46|autoreload|29879|140668035741504|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:46|autoreload|29891|140316575856448|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:08:47|autoreload|29891|140316575856448|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:48|autoreload|29895|139823586682688|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:08:49|autoreload|29895|139823586682688|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:08:50|autoreload|29904|140196592494400|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:09:00|autoreload|29904|140196592494400|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:09:01|autoreload|29939|140706223576896|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:09:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:10:25 UTC)" (scheduled at 2022-01-24 16:09:25.372891+00:00)
+INFO|24/Jan/2022 16:09:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:10:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:09:42|autoreload|29939|140706223576896|/home/dipu/Documents/Ginny_project/web_scraping/web_scraping/urls.py changed, reloading.
+INFO|24/Jan/2022 16:09:43|autoreload|30075|140061048973120|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:09:47|autoreload|30075|140061048973120|/home/dipu/Documents/Ginny_project/web_scraping/web_scraping/urls.py changed, reloading.
+INFO|24/Jan/2022 16:09:48|autoreload|30087|140683174377280|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:10:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:11:25 UTC)" (scheduled at 2022-01-24 16:10:25.372891+00:00)
+INFO|24/Jan/2022 16:10:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:11:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:11:20|autoreload|30087|140683174377280|/home/dipu/Documents/Ginny_project/web_scraping/web_scraping/urls.py changed, reloading.
+INFO|24/Jan/2022 16:11:20|autoreload|30166|140520390481728|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:11:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:12:25 UTC)" (scheduled at 2022-01-24 16:11:25.372891+00:00)
+INFO|24/Jan/2022 16:11:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:12:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:12:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:13:25 UTC)" (scheduled at 2022-01-24 16:12:25.372891+00:00)
+INFO|24/Jan/2022 16:12:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:13:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:13:11|autoreload|30166|140520390481728|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:13:11|autoreload|30327|139715632830272|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:13:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:14:25 UTC)" (scheduled at 2022-01-24 16:13:25.372891+00:00)
+INFO|24/Jan/2022 16:13:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:14:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:13:27|autoreload|30327|139715632830272|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:13:28|base|30352|140287647090496|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|24/Jan/2022 16:13:28|base|30352|140287647090496|Added job "Schedule.get_queryset" to job store "default"
+INFO|24/Jan/2022 16:13:28|base|30352|140287647090496|Scheduler started
+INFO|24/Jan/2022 16:13:28|autoreload|30352|140287647090496|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:14:23|autoreload|30352|140287647090496|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:14:24|autoreload|30399|139712648439616|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:14:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:15:25 UTC)" (scheduled at 2022-01-24 16:14:25.372891+00:00)
+INFO|24/Jan/2022 16:14:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:15:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:14:46|autoreload|30399|139712648439616|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:14:47|base|30416|139943952881472|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|24/Jan/2022 16:14:47|base|30416|139943952881472|Added job "Schedule.get_queryset" to job store "default"
+INFO|24/Jan/2022 16:14:47|base|30416|139943952881472|Scheduler started
+INFO|24/Jan/2022 16:14:47|autoreload|30416|139943952881472|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:15:25|base|28824|140189568608000|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:16:25 UTC)" (scheduled at 2022-01-24 16:15:25.372891+00:00)
+INFO|24/Jan/2022 16:15:25|base|28824|140189568608000|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:16:25 UTC)" executed successfully
+INFO|24/Jan/2022 16:15:47|base|30416|139943904651008|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:15:47 UTC)" (scheduled at 2022-01-24 16:15:47.360919+00:00)
+INFO|24/Jan/2022 16:15:47|base|30416|139943904651008|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-24 16:16:47 UTC)" executed successfully
+INFO|24/Jan/2022 16:16:33|autoreload|30535|140539710936896|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:18:25|autoreload|30716|140353182873408|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:18:54|autoreload|30716|140353182873408|/home/dipu/Documents/Ginny_project/web_scraping/base/urls.py changed, reloading.
+INFO|24/Jan/2022 16:18:55|autoreload|30728|139712486135616|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:21:14|autoreload|30728|139712486135616|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:21:14|autoreload|30820|139830643107648|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:21:16|autoreload|30820|139830643107648|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:21:16|autoreload|30827|140675293128512|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:21:26|autoreload|30835|140264096446272|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:21:45|autoreload|30835|140264096446272|/home/dipu/Documents/Ginny_project/web_scraping/base/urls.py changed, reloading.
+INFO|24/Jan/2022 16:21:46|autoreload|30866|139714676709184|Watching for file changes with StatReloader
+WARNING|24/Jan/2022 16:21:57|log|30866|139714626299648|Not Found: /
+WARNING|24/Jan/2022 16:21:57|basehttp|30866|139714626299648|"GET / HTTP/1.1" 404 2230
+WARNING|24/Jan/2022 16:21:57|log|30866|139714626299648|Not Found: /favicon.ico
+WARNING|24/Jan/2022 16:21:57|basehttp|30866|139714626299648|"GET /favicon.ico HTTP/1.1" 404 2281
+INFO|24/Jan/2022 16:22:03|basehttp|30866|139714626299648|"GET /test HTTP/1.1" 301 0
+ERROR|24/Jan/2022 16:22:03|log|30866|139714626299648|Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: webscrap() takes no arguments
+ERROR|24/Jan/2022 16:22:03|basehttp|30866|139714626299648|"GET /test/ HTTP/1.1" 500 62092
+INFO|24/Jan/2022 16:22:27|autoreload|30866|139714676709184|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:22:28|autoreload|30936|140354466756416|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:22:30|log|30936|140354416346880|Internal Server Error: /test/
+Traceback (most recent call last):
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/dipu/Documents/Ginny_project/venv/lib/python3.8/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: webscrap() takes no arguments
+ERROR|24/Jan/2022 16:22:30|basehttp|30936|140354416346880|"GET /test/ HTTP/1.1" 500 62229
+INFO|24/Jan/2022 16:24:26|autoreload|30936|140354466756416|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:24:27|autoreload|31057|139932946724672|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:24:40|autoreload|31057|139932946724672|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:24:41|autoreload|31068|139955368769344|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:24:48|autoreload|31081|139676657555264|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:25:30|autoreload|31122|140529586665280|Watching for file changes with StatReloader
+WARNING|24/Jan/2022 16:25:35|log|31122|140529536255744|Method Not Allowed: /test/
+WARNING|24/Jan/2022 16:25:35|basehttp|31122|140529536255744|"GET /test/ HTTP/1.1" 405 3928
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529527863040|"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529291478784|"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529527863040|"GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529316656896|"GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529308264192|"GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529299871488|"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529536255744|"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529316656896|"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529308264192|"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529291478784|"GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO|24/Jan/2022 16:25:35|basehttp|31122|140529316656896|"GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO|24/Jan/2022 16:26:02|autoreload|31122|140529586665280|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:26:02|autoreload|31170|140514382014272|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:26:08|basehttp|31170|140514331604736|"GET /test/ HTTP/1.1" 200 5210
+INFO|24/Jan/2022 16:26:14|autoreload|31170|140514382014272|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:26:15|autoreload|31194|139896141563712|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:33:43|autoreload|31194|139896141563712|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:33:44|autoreload|31533|139818369292096|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:34:03|autoreload|31533|139818369292096|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:34:03|autoreload|31550|140621870151488|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:39:20|autoreload|31975|140032722229056|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:40:03|autoreload|32134|140106193434432|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:40:41|autoreload|32290|139669612599104|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:40:50|views|32290|139669341595392|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669341595392|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669341595392|"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669333202688|"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669472306944|"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669341595392|"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669341595392|"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:40:50|basehttp|32290|139669514254080|"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:41:45|autoreload|32290|139669612599104|/home/dipu/Documents/Ginny_project/web_scraping/CommonUtil/constVarPath.py changed, reloading.
+INFO|24/Jan/2022 16:41:46|autoreload|32488|140377649026880|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:41:50|views|32488|140377378023168|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+INFO|24/Jan/2022 16:41:50|basehttp|32488|140377378023168|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:42:49|autoreload|32488|140377649026880|/home/dipu/Documents/Ginny_project/web_scraping/CommonUtil/constVarPath.py changed, reloading.
+INFO|24/Jan/2022 16:42:50|autoreload|32543|140594114352960|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:43:18|autoreload|32543|140594114352960|/home/dipu/Documents/Ginny_project/web_scraping/CommonUtil/constVarPath.py changed, reloading.
+INFO|24/Jan/2022 16:43:19|autoreload|32592|140513040246592|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:43:20|autoreload|32592|140513040246592|/home/dipu/Documents/Ginny_project/web_scraping/CommonUtil/constVarPath.py changed, reloading.
+INFO|24/Jan/2022 16:43:21|autoreload|32600|140088608679744|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:43:28|autoreload|32600|140088608679744|/home/dipu/Documents/Ginny_project/web_scraping/CommonUtil/constVarPath.py changed, reloading.
+INFO|24/Jan/2022 16:43:29|autoreload|32621|140662304151360|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:43:48|views|32621|140662033147648|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+INFO|24/Jan/2022 16:43:48|basehttp|32621|140662033147648|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:49:40|autoreload|32621|140662304151360|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:49:41|autoreload|32914|140442853074752|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:49:52|views|32914|140442582071040|Something Went WrongMessage: 'chromedriver' executable needs to be in PATH. Please see https://chromedriver.chromium.org/home
+
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442582071040|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442582071040|"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442582071040|"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442573678336|"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442754729728|"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442746337024|"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442564761344|"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442763122432|"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442573678336|"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442582071040|"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442754729728|"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:49:52|basehttp|32914|140442754729728|"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO|24/Jan/2022 16:51:12|autoreload|32914|140442853074752|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:51:13|autoreload|32993|140248404330304|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:51:31|autoreload|32993|140248404330304|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:51:32|autoreload|33012|139958297110336|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:51:48|autoreload|33073|139624337536832|Watching for file changes with StatReloader
+ERROR|24/Jan/2022 16:51:58|views|33073|139624065099520|Something Went Wrongname 'chromeDriverPath' is not defined
+INFO|24/Jan/2022 16:51:58|basehttp|33073|139624065099520|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:52:19|autoreload|33073|139624337536832|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:52:21|autoreload|33113|140379238143808|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:52:28|logger|33113|140378965706496|
+
+INFO|24/Jan/2022 16:52:28|logger|33113|140378965706496|====== WebDriver manager ======
+INFO|24/Jan/2022 16:52:29|logger|33113|140378965706496|Current google-chrome version is 97.0.4692
+INFO|24/Jan/2022 16:52:29|logger|33113|140378965706496|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|24/Jan/2022 16:52:30|logger|33113|140378965706496|There is no [linux64] chromedriver for browser  in cache
+INFO|24/Jan/2022 16:52:30|logger|33113|140378965706496|Trying to download new driver from https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_linux64.zip
+INFO|24/Jan/2022 16:52:33|logger|33113|140378965706496|Driver has been saved in cache [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71]
+ERROR|24/Jan/2022 16:52:50|views|33113|140378965706496|Something Went WrongMessage: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tenderDetailDivTd"]/div/a"}
+  (Session info: chrome=97.0.4692.71)
+Stacktrace:
+#0 0x558bcf41aa23 <unknown>
+#1 0x558bceee5e18 <unknown>
+#2 0x558bcef1c151 <unknown>
+#3 0x558bcef1c311 <unknown>
+#4 0x558bcef4eec4 <unknown>
+#5 0x558bcef399bd <unknown>
+#6 0x558bcef4cc5b <unknown>
+#7 0x558bcef39883 <unknown>
+#8 0x558bcef0f3fa <unknown>
+#9 0x558bcef104c5 <unknown>
+#10 0x558bcf44a16d <unknown>
+#11 0x558bcf4605bb <unknown>
+#12 0x558bcf44be75 <unknown>
+#13 0x558bcf460e85 <unknown>
+#14 0x558bcf43f86f <unknown>
+#15 0x558bcf47bae8 <unknown>
+#16 0x558bcf47bc68 <unknown>
+#17 0x558bcf496aad <unknown>
+#18 0x7f903d4ca609 <unknown>
+
+INFO|24/Jan/2022 16:52:50|basehttp|33113|140378965706496|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 16:53:45|autoreload|33113|140379238143808|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:53:47|autoreload|33351|139796800304960|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:58:40|autoreload|33351|139796800304960|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:58:41|autoreload|33465|140537451206464|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:58:44|autoreload|33465|140537451206464|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:58:45|autoreload|33474|140227890255680|Watching for file changes with StatReloader
+INFO|24/Jan/2022 16:59:20|autoreload|33474|140227890255680|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 16:59:21|autoreload|33490|139963362514752|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:00:56|autoreload|33490|139963362514752|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:00:57|autoreload|33552|140617109579584|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:01:43|autoreload|33552|140617109579584|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:01:44|autoreload|33567|140637854967616|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:02:15|autoreload|33567|140637854967616|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:02:16|autoreload|33589|140478956111680|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:02:21|autoreload|33589|140478956111680|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:02:22|autoreload|33605|140261299906368|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:02:28|autoreload|33605|140261299906368|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:02:29|autoreload|33622|140575377090368|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:03:08|autoreload|33622|140575377090368|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:03:10|autoreload|33704|140274572183360|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:03:48|autoreload|33704|140274572183360|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:03:49|autoreload|33730|139801091848000|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:03:55|autoreload|33730|139801091848000|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:03:56|autoreload|33746|140182736197440|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:04:38|autoreload|33746|140182736197440|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:04:39|autoreload|33786|140552087177024|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:05:13|autoreload|33786|140552087177024|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:05:15|autoreload|33840|139733802059584|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:06:20|logger|33840|139733529622272|
+
+INFO|24/Jan/2022 17:06:20|logger|33840|139733529622272|====== WebDriver manager ======
+INFO|24/Jan/2022 17:06:20|logger|33840|139733529622272|Current google-chrome version is 97.0.4692
+INFO|24/Jan/2022 17:06:20|logger|33840|139733529622272|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|24/Jan/2022 17:06:21|logger|33840|139733529622272|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+ERROR|24/Jan/2022 17:06:38|views|33840|139733529622272|Something Went Wrongname 'strftime' is not defined
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733529622272|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733529622272|"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733521229568|"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733659649792|"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733701596928|"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733709989632|"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733521229568|"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733521229568|"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733709989632|"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733701596928|"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733659649792|"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:06:38|basehttp|33840|139733659649792|"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:07:57|autoreload|33840|139733802059584|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:07:59|autoreload|34181|140630936291136|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:08:13|logger|34181|140630663853824|
+
+INFO|24/Jan/2022 17:08:13|logger|34181|140630663853824|====== WebDriver manager ======
+INFO|24/Jan/2022 17:08:13|logger|34181|140630663853824|Current google-chrome version is 97.0.4692
+INFO|24/Jan/2022 17:08:13|logger|34181|140630663853824|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|24/Jan/2022 17:08:15|logger|34181|140630663853824|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+ERROR|24/Jan/2022 17:08:31|views|34181|140630663853824|Something Went Wrongname 'strftime' is not defined
+INFO|24/Jan/2022 17:08:31|basehttp|34181|140630663853824|"GET /test/ HTTP/1.1" 200 5270
+INFO|24/Jan/2022 17:09:46|autoreload|34181|140630936291136|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:09:47|autoreload|34487|140544287639360|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:09:57|logger|34487|140543946389248|
+
+INFO|24/Jan/2022 17:09:57|logger|34487|140543946389248|====== WebDriver manager ======
+INFO|24/Jan/2022 17:09:57|logger|34487|140543946389248|Current google-chrome version is 97.0.4692
+INFO|24/Jan/2022 17:09:57|logger|34487|140543946389248|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|24/Jan/2022 17:09:58|logger|34487|140543946389248|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+INFO|24/Jan/2022 17:10:31|basehttp|34487|140543946389248|"GET /test/ HTTP/1.1" 200 5210
+INFO|24/Jan/2022 17:11:44|autoreload|34487|140544287639360|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:11:45|autoreload|34702|140488731125568|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:12:34|autoreload|34702|140488731125568|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:12:35|autoreload|34733|139854503151424|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:12:59|autoreload|34733|139854503151424|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:13:00|autoreload|34749|140441842571072|Watching for file changes with StatReloader
+INFO|24/Jan/2022 17:13:10|logger|34749|140441570133760|
+
+INFO|24/Jan/2022 17:13:10|logger|34749|140441570133760|====== WebDriver manager ======
+INFO|24/Jan/2022 17:13:11|logger|34749|140441570133760|Current google-chrome version is 97.0.4692
+INFO|24/Jan/2022 17:13:11|logger|34749|140441570133760|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|24/Jan/2022 17:13:11|logger|34749|140441570133760|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441570133760|"GET /test/ HTTP/1.1" 200 5210
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441570133760|"GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441561741056|"GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441742108416|"GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441733715712|"GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441750501120|"GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441561741056|"GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441570133760|"GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441552185088|"GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441733715712|"GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:44|basehttp|34749|140441742108416|"GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:13:45|basehttp|34749|140441742108416|"GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO|24/Jan/2022 17:14:56|autoreload|34749|140441842571072|/home/dipu/Documents/Ginny_project/web_scraping/base/views.py changed, reloading.
+INFO|24/Jan/2022 17:14:57|autoreload|35039|139910305924928|Watching for file changes with StatReloader

@@ -1,0 +1,43 @@
+Bauxite
+Fire clay
+Plastic fire clay
+Plastic clay
+Idler roller
+Conveyor roller
+Alumina
+Digitizer
+Transformers
+Software
+Capacitor
+Current sensor
+Diode
+Door Indication lights
+Driver Desk
+EBG- resistor
+Flasher Lights
+GTO
+Heat Sink
+IGBT Module
+LEM Sensor
+Loco Headlights
+Marker Lights
+Micro Circuit Breaker
+Mosfet
+Push Buttons
+Resistors
+Rogowski Sensor
+Rotary Switches
+Stucchi
+Super Capacitors
+Supercapacitor
+Surge arrestor
+Taillights
+Thyristor
+Voltage sensor
+High voltage
+High voltage switch
+Probe
+High voltage probe
+E field
+Ignitron
+ICAR

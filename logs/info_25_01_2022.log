@@ -1,0 +1,47 @@
+INFO|25/Jan/2022 13:44:57|autoreload|18290|139661491128128|Watching for file changes with StatReloader
+INFO|25/Jan/2022 13:51:07|base|18715|140701087962944|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|25/Jan/2022 13:51:07|base|18715|140701087962944|Added job "Schedule.get_queryset" to job store "default"
+INFO|25/Jan/2022 13:51:07|base|18715|140701087962944|Scheduler started
+INFO|25/Jan/2022 13:51:08|base|18721|140300397524800|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|25/Jan/2022 13:51:08|base|18721|140300397524800|Added job "Schedule.get_queryset" to job store "default"
+INFO|25/Jan/2022 13:51:08|base|18721|140300397524800|Scheduler started
+INFO|25/Jan/2022 13:51:08|autoreload|18721|140300397524800|Watching for file changes with StatReloader
+INFO|25/Jan/2022 13:51:26|autoreload|18721|140300397524800|/home/dipu/Documents/Ginny_project/web_scraping/base/urls.py changed, reloading.
+INFO|25/Jan/2022 13:51:27|base|18751|140419557922624|Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO|25/Jan/2022 13:51:27|base|18751|140419557922624|Added job "Schedule.get_queryset" to job store "default"
+INFO|25/Jan/2022 13:51:27|base|18751|140419557922624|Scheduler started
+INFO|25/Jan/2022 13:51:27|autoreload|18751|140419557922624|Watching for file changes with StatReloader
+INFO|25/Jan/2022 13:52:07|base|18715|140700817966848|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:52:07 UTC)" (scheduled at 2022-01-25 13:52:07.604426+00:00)
+INFO|25/Jan/2022 13:52:07|logger|18715|140700817966848|
+
+INFO|25/Jan/2022 13:52:07|logger|18715|140700817966848|====== WebDriver manager ======
+INFO|25/Jan/2022 13:52:07|logger|18715|140700817966848|Current google-chrome version is 97.0.4692
+INFO|25/Jan/2022 13:52:07|logger|18715|140700817966848|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|25/Jan/2022 13:52:09|logger|18715|140700817966848|Trying to download new driver from https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_linux64.zip
+INFO|25/Jan/2022 13:52:13|logger|18715|140700817966848|Driver has been saved in cache [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71]
+INFO|25/Jan/2022 13:52:27|base|18751|140419276830464|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:52:27 UTC)" (scheduled at 2022-01-25 13:52:27.874732+00:00)
+INFO|25/Jan/2022 13:52:27|logger|18751|140419276830464|
+
+INFO|25/Jan/2022 13:52:27|logger|18751|140419276830464|====== WebDriver manager ======
+INFO|25/Jan/2022 13:52:28|logger|18751|140419276830464|Current google-chrome version is 97.0.4692
+INFO|25/Jan/2022 13:52:28|logger|18751|140419276830464|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|25/Jan/2022 13:52:28|logger|18751|140419276830464|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+INFO|25/Jan/2022 13:52:49|base|18715|140700817966848|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:53:07 UTC)" executed successfully
+INFO|25/Jan/2022 13:53:01|base|18751|140419276830464|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:53:27 UTC)" executed successfully
+INFO|25/Jan/2022 13:53:07|base|18715|140700817966848|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:54:07 UTC)" (scheduled at 2022-01-25 13:53:07.604426+00:00)
+INFO|25/Jan/2022 13:53:07|logger|18715|140700817966848|
+
+INFO|25/Jan/2022 13:53:07|logger|18715|140700817966848|====== WebDriver manager ======
+INFO|25/Jan/2022 13:53:08|logger|18715|140700817966848|Current google-chrome version is 97.0.4692
+INFO|25/Jan/2022 13:53:08|logger|18715|140700817966848|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|25/Jan/2022 13:53:08|logger|18715|140700817966848|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+INFO|25/Jan/2022 13:53:27|base|18751|140419276830464|Running job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:54:27 UTC)" (scheduled at 2022-01-25 13:53:27.874732+00:00)
+INFO|25/Jan/2022 13:53:27|logger|18751|140419276830464|
+
+INFO|25/Jan/2022 13:53:27|logger|18751|140419276830464|====== WebDriver manager ======
+INFO|25/Jan/2022 13:53:27|logger|18751|140419276830464|Current google-chrome version is 97.0.4692
+INFO|25/Jan/2022 13:53:27|logger|18751|140419276830464|Get LATEST chromedriver version for 97.0.4692 google-chrome
+INFO|25/Jan/2022 13:53:29|logger|18751|140419276830464|Driver [/home/dipu/.wdm/drivers/chromedriver/linux64/97.0.4692.71/chromedriver] found in cache
+INFO|25/Jan/2022 13:53:40|base|18715|140700817966848|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:54:07 UTC)" executed successfully
+ERROR|25/Jan/2022 13:53:53|views|18751|140419276830464|Something Went Wrong('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+INFO|25/Jan/2022 13:53:53|base|18751|140419276830464|Job "Schedule.get_queryset (trigger: interval[0:01:00], next run at: 2022-01-25 13:54:27 UTC)" executed successfully
